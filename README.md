@@ -3,7 +3,7 @@
 开发工具 (IDE) :myeclipse-2015
 
 流水账单练手
-water bill training project
+Water Bill practising project
 
 数据库用的是 sqlite 单机不联网可多开。。。
 The database is SQLite. Stand-alone without network （yeah, it's just like a Excel you can say it!）
