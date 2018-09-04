@@ -1,0 +1,92 @@
+#=CONCATENATE("SELECT null,'2018','02','",A3,"','现金','私人','",B3,"','1','",C3,"',null",CHAR(10),"UNION ALL")
+INSERT INTO accounts (orderid,year,month,day,paymethod,isprivate,itemname,itemnumber,price,remarks)
+SELECT null,'2018','04','30','现金','私人','平型关路水费4月','1','41.4',null
+UNION ALL
+SELECT null,'2018','04','30','现金','私人','平型关路电费4月','1','126.4',null
+UNION ALL
+SELECT null,'2018','04','30','现金','私人','平型关路燃气费4月','1','84',null
+UNION ALL
+SELECT null,'2018','04','30','现金','私人','12201水费4月','1','55.2',null
+UNION ALL
+SELECT null,'2018','04','30','现金','私人','12201燃气费4月','1','87',null
+UNION ALL
+SELECT null,'2018','04','30','现金','私人','12201电费4月','1','222.5',null
+UNION ALL
+SELECT null,'2018','04','30','现金','私人','手机费3月','1','421',null
+UNION ALL
+SELECT null,'2018','04','30','现金','私人','刘群5月养老费','1','4101.3',null
+UNION ALL
+SELECT null,'2018','04','21','现金','店内','投影仪维修','1','230',null
+UNION ALL
+SELECT null,'2018','04','02','信用卡','店内','惠普703墨盒','1','101.9',null
+UNION ALL
+SELECT null,'2018','04','02','信用卡','店内','充电式电动螺丝刀','1','119',null
+UNION ALL
+SELECT null,'2018','04','02','信用卡','店内','HDMI高清视频转换器','1','76',null
+UNION ALL
+SELECT null,'2018','04','02','信用卡','店内','爆米花60包X120克','1','85',null
+UNION ALL
+SELECT null,'2018','04','02','信用卡','店内','萨拉米肠,风干火腿切片','1','168.9',null
+UNION ALL
+SELECT null,'2018','04','02','信用卡','店内','半边梅','1','12.8',null
+UNION ALL
+SELECT null,'2018','04','02','信用卡','店内','净水器滤芯','1','80',null
+UNION ALL
+SELECT null,'2018','04','06','信用卡','店内','牛皮纸包装纸120g','1','44',null
+UNION ALL
+SELECT null,'2018','04','07','信用卡','店内','HDMI转AV线','1','18.8',null
+UNION ALL
+SELECT null,'2018','04','09','信用卡','店内','绿植 园艺工具以及花卉','1','40',null
+UNION ALL
+SELECT null,'2018','04','09','信用卡','店内','西班牙桃乐丝 公牛血','1','1097.6',null
+UNION ALL
+SELECT null,'2018','04','10','信用卡','店内','安岳黄柠檬','1','19.8',null
+UNION ALL
+SELECT null,'2018','04','10','信用卡','店内','奔富bin128红酒','1','650',null
+UNION ALL
+SELECT null,'2018','04','10','信用卡','店内','无籽青柠檬','1','43.9',null
+UNION ALL
+SELECT null,'2018','04','17','信用卡','店内','半边梅200g','1','88',null
+UNION ALL
+SELECT null,'2018','04','17','信用卡','店内','阿拉伯水烟塑料烟嘴','1','21',null
+UNION ALL
+SELECT null,'2018','04','19','信用卡','店内','意大利式风干火腿切片','1','205.9',null
+UNION ALL
+SELECT null,'2018','04','25','信用卡','店内','法式酥皮','1','75.2',null
+UNION ALL
+SELECT null,'2018','04','25','信用卡','店内','安岳黄柠檬','1','19.8',null
+UNION ALL
+SELECT null,'2018','04','28','信用卡','店内','无籽青柠檬','1','43.9',null
+UNION ALL
+SELECT null,'2018','04','30','信用卡','店内','100装防水创可贴','1','7.8',null
+UNION ALL
+SELECT null,'2018','04','30','信用卡','店内','旺旺 小小酥 60g*8包 ','1','111.2',null
+UNION ALL
+SELECT null,'2018','04','06','信用卡','私人','奥克斯电煮锅','1','69.9',null
+UNION ALL
+SELECT null,'2018','04','06','信用卡','私人','洗衣机清洗剂等','1','109.7',null
+UNION ALL
+SELECT null,'2018','04','06','信用卡','私人','旺仔摇滚冻132g','1','32',null
+UNION ALL
+SELECT null,'2018','04','06','信用卡','私人','切葱器切葱花刀等','1','45',null
+UNION ALL
+SELECT null,'2018','04','07','信用卡','私人','20双天鹅绒薄款短丝袜','1','13.8',null
+UNION ALL
+SELECT null,'2018','04','07','信用卡','私人','花王洗衣粉','1','21.4',null
+UNION ALL
+SELECT null,'2018','04','10','信用卡','私人','上海到朱家尖往返车票','1','700',null
+UNION ALL
+SELECT null,'2018','04','17','信用卡','私人','2.5kg英短猫粮','1','118',null
+UNION ALL
+SELECT null,'2018','04','21','信用卡','私人','华为P20手机','1','5488',null
+UNION ALL
+SELECT null,'2018','04','22','信用卡','私人','手机套','1','29.9',null
+UNION ALL
+SELECT null,'2018','04','27','信用卡','私人','个人旅游签证','1','1005',null
+UNION ALL
+SELECT null,'2018','04','27','信用卡','私人','志高家用多功能电热火锅','1','115',null
+UNION ALL
+SELECT null,'2018','04','29','信用卡','私人','一次性内裤','1','31.8',null;
+
+
+

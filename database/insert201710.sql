@@ -1,0 +1,125 @@
+INSERT INTO accounts (orderid,year,month,day,paymethod,isprivate,itemname,itemnumber,price,remarks)
+SELECT null,'2017','10','24','现金','私人','平型关路电费10月','1','342.8',null
+UNION ALL
+SELECT null,'2017','10','24','现金','私人','平型关路水费10月','1','62.1',null
+UNION ALL
+SELECT null,'2017','10','24','现金','私人','平型关路燃气费10月','1','42',null
+UNION ALL
+SELECT null,'2017','10','24','现金','私人','12201电费10月','1','105.5',null
+UNION ALL
+SELECT null,'2017','10','24','现金','私人','12201燃气费10月','1','48',null
+UNION ALL
+SELECT null,'2017','10','24','现金','私人','12201水费10月','1','62.1',null
+UNION ALL
+SELECT null,'2017','10','24','现金','私人','邢坤手机费9月','1','348',null
+UNION ALL
+SELECT null,'2017','10','22','现金','私人','刘群201711养老费','1','3969',null
+UNION ALL
+SELECT null,'2017','10','01','信用卡','店内','乐锦记手撕棒原味面包','1','30.8',null
+UNION ALL
+SELECT null,'2017','10','01','信用卡','店内','香芋5斤装','1','18',null
+UNION ALL
+SELECT null,'2017','10','01','信用卡','店内','五香烤鸭蛋','1','31.8',null
+UNION ALL
+SELECT null,'2017','10','01','信用卡','店内','农家风味豆豉1000g瓶装','1','17.5',null
+UNION ALL	
+SELECT null,'2017','10','01','信用卡','店内','5斤装时令红富士','1','29.9',null
+UNION ALL
+SELECT null,'2017','10','01','信用卡','店内','罗汉笋脆500g*5','1','27.9',null
+UNION ALL
+SELECT null,'2017','10','02','信用卡','店内','公牛血干白','1','1400',null
+UNION ALL
+SELECT null,'2017','10','02','信用卡','店内','公牛血干红','1','2200',null
+UNION ALL
+SELECT null,'2017','10','02','信用卡','店内','上好佳龙虾片','1','124',null
+UNION ALL
+SELECT null,'2017','10','04','信用卡','店内','味好美烧烤酱1kg','1','23.5',null
+UNION ALL
+SELECT null,'2017','10','04','信用卡','店内','水杯子一次性广告杯','1','47.6',null
+UNION ALL
+SELECT null,'2017','10','08','信用卡','店内','成猫粮','1','57',null
+UNION ALL
+SELECT null,'2017','10','08','信用卡','店内','生抽','1','95.6',null
+UNION ALL
+SELECT null,'2017','10','08','信用卡','店内','法式羊排','1','234',null
+UNION ALL
+SELECT null,'2017','10','09','信用卡','店内','原装惠普703墨盒 ','1','96',null
+UNION ALL
+SELECT null,'2017','10','11','信用卡','店内','意大利式风干火腿','1','195',null
+UNION ALL
+SELECT null,'2017','10','18','信用卡','店内','关东煮竹签','1','50',null
+UNION ALL
+SELECT null,'2017','10','19','信用卡','店内','培根肉片','1','101',null
+UNION ALL
+SELECT null,'2017','10','19','信用卡','店内',' 新鲜桔子5斤','1','21.9',null
+UNION ALL
+SELECT null,'2017','10','23','信用卡','店内','口水娃多味花生','1','23',null
+UNION ALL
+SELECT null,'2017','10','23','信用卡','店内','AV转HDMI转换器','1','55',null
+UNION ALL
+SELECT null,'2017','10','24','信用卡','店内','印尼进口菲娜虾片','1','78',null
+UNION ALL
+SELECT null,'2017','10','24','信用卡','店内','烧烤碳，不锈钢木柄扁签','1','34.9',null
+UNION ALL
+SELECT null,'2017','10','24','信用卡','店内','吧台椅','1','99',null
+UNION ALL
+SELECT null,'2017','10','24','信用卡','店内','猫砂2.8KG ','1','84',null
+UNION ALL
+SELECT null,'2017','10','24','信用卡','店内','法国皇家成猫粮','1','112',null
+UNION ALL
+SELECT null,'2017','10','25','信用卡','店内','菠萝果酱','1','69.8',null
+UNION ALL
+SELECT null,'2017','10','25','信用卡','店内','圣节装饰用品','1','36',null
+UNION ALL
+SELECT null,'2017','10','25','信用卡','店内','公牛血干红','1','550',null
+UNION ALL
+SELECT null,'2017','10','29','信用卡','店内','天润网红酸奶','1','105',null
+UNION ALL
+SELECT null,'2017','10','30','信用卡','店内','意大利披萨三明治','1','65',null
+UNION ALL
+SELECT null,'2017','10','31','信用卡','店内',' xo酱烤肉粒','1','198.8',null
+UNION ALL
+SELECT null,'2017','10','31','信用卡','店内','订书钉 ','1','52',null
+UNION ALL
+SELECT null,'2017','10','01','信用卡','私人','裤架5个','1','110',null
+UNION ALL
+SELECT null,'2017','10','01','信用卡','私人','五谷杂粮组合早餐','1','50.8',null
+UNION ALL
+SELECT null,'2017','10','07','信用卡','私人','缝纫机505A','1','240',null
+UNION ALL
+SELECT null,'2017','10','09','信用卡','私人','3盒装牙线','1','35',null
+UNION ALL
+SELECT null,'2017','10','16','信用卡','私人','长袖中长款卫衣女','1','138',null
+UNION ALL
+SELECT null,'2017','10','16','信用卡','私人','中长款衬衫女长袖','1','168',null
+UNION ALL
+SELECT null,'2017','10','16','信用卡','私人','弹力修身小脚裤九分裤','1','78',null
+UNION ALL
+SELECT null,'2017','10','16','信用卡','私人','冬季加绒运动裤','1','64',null
+UNION ALL
+SELECT null,'2017','10','17','信用卡','私人','韩版运动休闲毛呢外套','1','198',null
+UNION ALL
+SELECT null,'2017','10','17','信用卡','私人','加绒加厚打底衫上衣','1','28.8',null
+UNION ALL
+SELECT null,'2017','10','17','信用卡','私人','毛线衣蝙蝠型袖','1','395',null
+UNION ALL
+SELECT null,'2017','10','22','信用卡','私人','服装针线夹子','1','6.5',null
+UNION ALL
+SELECT null,'2017','10','23','信用卡','私人','卫衣女长袖宽松','1','138',null
+UNION ALL
+SELECT null,'2017','10','24','信用卡','私人','哈伦裤女九分裤','1','66',null
+UNION ALL
+SELECT null,'2017','10','27','信用卡','私人','哈伦裤女九分裤','1','69',null
+UNION ALL
+SELECT null,'2017','10','27','信用卡','私人','不锈钢水果挖球器等','1','82.1',null
+UNION ALL
+SELECT null,'2017','10','30','信用卡','私人','苹果6s手机壳防摔','1','25',null
+UNION ALL
+SELECT null,'2017','10','31','信用卡','私人','卫衣女长袖宽松','1','138',null
+UNION ALL
+SELECT null,'2017','10','31','信用卡','私人','棒球帽','1','291',null;
+
+
+
+
+
