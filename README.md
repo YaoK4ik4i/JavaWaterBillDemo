@@ -32,4 +32,4 @@ You can find executable jar files in the project directory （target）.
 我的方法是再用 exe4j，并打包 jdk 转换成 .exe文件，可以在任何环境下运行
 Then use exe4j and integrate JDK to convert.Exe files to run in any environment.
 
-test push request
+test pull request
